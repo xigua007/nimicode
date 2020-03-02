@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/flex/flex",
+    "pages/css/css",
+    "pages/event/event",
+    "pages/template/qq/qq",
+    "pages/template/wexin/weixin",
+    "pages/index/index",
+    "pages/weibo/weibo",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#ccc",
+    "navigationBarTitleText": "暴鸡小秘书",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#66ccaa",
+    "backgroundTextStyle": "light"
+  },
+  "tabBar": {
+    "color": "#8a8a8a",
+    "selectedColor": "#33aacc",
+    "backgroundColor": "#666",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/template/qq/qq",
+        "text": "QQ",
+        "iconPath": "images/tabbar/tabbar_weixin.png",
+        "selectedIconPath": "images/tabbar/tabbar_weixin_s.png"
+      },
+      {
+        "pagePath": "pages/template/wexin/weixin",
+        "text": "微信",
+        "iconPath": "images/tabbar/tabbar_weixin.png",
+        "selectedIconPath": "images/tabbar/tabbar_weixin_s.png"
+      }
+    ]
+  },
+  "debug": false,
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

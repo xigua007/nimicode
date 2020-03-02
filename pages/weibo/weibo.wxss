@@ -1,0 +1,4 @@
+/* pages/weibo/weibo.wxss */
+text{
+  color: orange
+}

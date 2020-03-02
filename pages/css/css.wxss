@@ -1,0 +1,2 @@
+/* pages/css/css.wxss */
+@import "./../template/news/news.wxss";

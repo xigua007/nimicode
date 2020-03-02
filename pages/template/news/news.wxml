@@ -1,0 +1,14 @@
+<template name="news">
+  <view class="new-group">
+    <view class="info-group">
+      <view class="title">感时花溅泪，恨别鸟惊心</view>
+      <view class="more-group">
+        <text class="author">西瓜</text>
+        <text class="time">2020年3月2日</text>
+      </view>
+    </view>
+    <view class="thumbnail-group">
+      <image class="thumbnail" src="https://hbimg.huabanimg.com/27b79b144f25eceb81a0756259341f43e46f3d29a271b-Gld2ND_fw658"></image>
+    </view>
+  </view>
+</template>

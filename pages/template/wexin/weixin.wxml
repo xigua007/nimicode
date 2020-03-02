@@ -1,0 +1,3 @@
+<!--pages/template/wexin/weixin.wxml-->
+<import src="../message/message.wxml"/>
+<template is="message" data="{{content:'一起打篮球',friend:'乔丹'}}"></template>

@@ -1,0 +1,2 @@
+/* pages/template/qq/qq.wxss */
+@import "../message/message.wxss"

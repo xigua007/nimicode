@@ -1,0 +1,4 @@
+<!--pages/template/qq/qq.wxml-->
+<import src="../message/message.wxml"/>
+<include src="header.wxml"/>
+<template is="message" wx:for="{{messages}}" data="{{...item}}"></template>

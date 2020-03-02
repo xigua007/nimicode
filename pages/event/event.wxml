@@ -1,0 +1,9 @@
+<!--pages/event/event.wxml-->
+<view bindtap="onViewClick">请点击</view>
+<view class="article-group" wx:for="{{articles}}" bindtap="onArtClick" data-id="{{item.id}}" data-title="{{item.title}}">
+  {{item.title}}
+</view> 
+<view class="outterview" bindtap="onOutterViewClick" id="outter">
+  <view class="innerView" bindtap="onInnerViewClick" id="inner"></view>
+
+</view>
