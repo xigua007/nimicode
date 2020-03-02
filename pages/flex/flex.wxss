@@ -8,8 +8,8 @@
 }
 
 .outter .inner{
-  width: 100rpx;
-  height: 100rpx;
+  width: 60rpx;
+  height: 60rpx;
   background: gray;
   border: 1px solid #e4e4e4;
   box-sizing: border-box;
